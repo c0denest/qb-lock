@@ -2,7 +2,7 @@
 
 ## Prewiev
 
-![lockpick](https://github.com/c0denest/qb-lock/assets/143138850/235bea4b-7e83-4017-b1e5-929bda3d535e)](https://discord.gg/NC3NxVWKxk)
+![lockpick](https://github.com/c0denest/qb-lock/assets/143138850/235bea4b-7e83-4017-b1e5-929bda3d535e)
 
 ## Usage
 
