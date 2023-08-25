@@ -2,7 +2,7 @@
 
 ## Prewiev
 
-[![Discord](https://media.discordapp.net/attachments/1138515615745851434/1138520021786705951/image.png?width=539&height=107)](https://discord.gg/NC3NxVWKxk)
+![lockpick](https://github.com/c0denest/qb-lock/assets/143138850/235bea4b-7e83-4017-b1e5-929bda3d535e)](https://discord.gg/NC3NxVWKxk)
 
 ## Usage
 
